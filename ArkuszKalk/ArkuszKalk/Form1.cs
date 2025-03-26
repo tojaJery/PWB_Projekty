@@ -103,6 +103,9 @@ namespace ArkuszKalk
                 MessageBox.Show("Plik CSV nie istnieje.", "B³¹d", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }
+            dataGridView1.DataSource = null;
+            dataGridView1.Rows.Clear();
+            dataGridView1.Columns.Clear();
             // Odczytaj zawartoœæ pliku CSV
             string[] lines = File.ReadAllLines(filePath);
             // Tworzenie tabeli danych

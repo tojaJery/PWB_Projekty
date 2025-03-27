@@ -31,6 +31,7 @@
             pictureBox1 = new PictureBox();
             buttonLoad = new Button();
             buttonOnlyGreen = new Button();
+            button1 = new Button();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
@@ -63,11 +64,22 @@
             buttonOnlyGreen.UseVisualStyleBackColor = false;
             buttonOnlyGreen.Click += buttonOnlyGreen_Click;
             // 
+            // button1
+            // 
+            button1.Location = new Point(96, 224);
+            button1.Name = "button1";
+            button1.Size = new Size(133, 49);
+            button1.TabIndex = 3;
+            button1.Text = "Invert Colors";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(button1);
             Controls.Add(buttonOnlyGreen);
             Controls.Add(buttonLoad);
             Controls.Add(pictureBox1);
@@ -82,5 +94,6 @@
         private PictureBox pictureBox1;
         private Button buttonLoad;
         private Button buttonOnlyGreen;
+        private Button button1;
     }
 }

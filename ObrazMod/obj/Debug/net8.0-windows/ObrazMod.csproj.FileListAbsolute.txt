@@ -1,0 +1,17 @@
+C:\Users\belez\source\repos\PWB-Projekty\ObrazMod\bin\Debug\net8.0-windows\ObrazMod.exe
+C:\Users\belez\source\repos\PWB-Projekty\ObrazMod\bin\Debug\net8.0-windows\ObrazMod.deps.json
+C:\Users\belez\source\repos\PWB-Projekty\ObrazMod\bin\Debug\net8.0-windows\ObrazMod.runtimeconfig.json
+C:\Users\belez\source\repos\PWB-Projekty\ObrazMod\bin\Debug\net8.0-windows\ObrazMod.dll
+C:\Users\belez\source\repos\PWB-Projekty\ObrazMod\bin\Debug\net8.0-windows\ObrazMod.pdb
+C:\Users\belez\source\repos\PWB-Projekty\ObrazMod\obj\Debug\net8.0-windows\ObrazMod.Form1.resources
+C:\Users\belez\source\repos\PWB-Projekty\ObrazMod\obj\Debug\net8.0-windows\ObrazMod.csproj.GenerateResource.cache
+C:\Users\belez\source\repos\PWB-Projekty\ObrazMod\obj\Debug\net8.0-windows\ObrazMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belez\source\repos\PWB-Projekty\ObrazMod\obj\Debug\net8.0-windows\ObrazMod.AssemblyInfoInputs.cache
+C:\Users\belez\source\repos\PWB-Projekty\ObrazMod\obj\Debug\net8.0-windows\ObrazMod.AssemblyInfo.cs
+C:\Users\belez\source\repos\PWB-Projekty\ObrazMod\obj\Debug\net8.0-windows\ObrazMod.csproj.CoreCompileInputs.cache
+C:\Users\belez\source\repos\PWB-Projekty\ObrazMod\obj\Debug\net8.0-windows\ObrazMod.sourcelink.json
+C:\Users\belez\source\repos\PWB-Projekty\ObrazMod\obj\Debug\net8.0-windows\ObrazMod.dll
+C:\Users\belez\source\repos\PWB-Projekty\ObrazMod\obj\Debug\net8.0-windows\refint\ObrazMod.dll
+C:\Users\belez\source\repos\PWB-Projekty\ObrazMod\obj\Debug\net8.0-windows\ObrazMod.pdb
+C:\Users\belez\source\repos\PWB-Projekty\ObrazMod\obj\Debug\net8.0-windows\ObrazMod.genruntimeconfig.cache
+C:\Users\belez\source\repos\PWB-Projekty\ObrazMod\obj\Debug\net8.0-windows\ref\ObrazMod.dll

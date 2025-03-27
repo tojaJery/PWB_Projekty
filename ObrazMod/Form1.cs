@@ -97,5 +97,15 @@ namespace ObrazMod
                 pictureBox1.Image = image;
             }
         }
+
+        private void buttonUpsideDown_Click(object sender, EventArgs e)
+        {
+            if(pictureBox1 != null)
+            {
+                Bitmap image = new Bitmap(pictureBox1.Image);
+                image.RotateFlip(RotateFlipType.RotateNoneFlipY);
+                pictureBox1.Image = image;
+            }
+        }
     }
 }

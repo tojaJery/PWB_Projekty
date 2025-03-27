@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ObrazMod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+201fe626b344b65cdc140dd789d68d33070e7b80")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6c6c478124c88f1feaaa28a293293d6b6548136")]
 [assembly: System.Reflection.AssemblyProductAttribute("ObrazMod")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ObrazMod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

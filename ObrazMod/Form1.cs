@@ -30,5 +30,27 @@ namespace ObrazMod
             pictureBox1.Image = image;
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
         }
+
+        private void buttonOnlyGreen_Click(object sender, EventArgs e)
+        {
+            if (pictureBox1 != null)
+            {
+                Bitmap image = new Bitmap(pictureBox1.Image);
+                for (int i = 0; i < image.Width; i++)
+                {
+                    for (int j = 0; j < image.Height; j++)
+                    {
+                        //if color pixel not green -> change to black
+                        if (image.GetPixel(i, j).R >= 120 || image.GetPixel(i, j).G <= 70 || image.GetPixel(i, j).B >=120)
+                        {
+                            image.SetPixel(i, j, Color.Black);
+                        }
+
+                    }
+                }
+                pictureBox1.Image = image;
+
+            }
+        }
     }
 }

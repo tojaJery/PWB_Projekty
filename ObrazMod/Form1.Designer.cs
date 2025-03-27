@@ -32,7 +32,13 @@
             buttonLoad = new Button();
             buttonOnlyGreen = new Button();
             button1 = new Button();
+            groupBox1 = new GroupBox();
+            radioButton1 = new RadioButton();
+            radioButton2 = new RadioButton();
+            radioButton3 = new RadioButton();
+            button2 = new Button();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
+            groupBox1.SuspendLayout();
             SuspendLayout();
             // 
             // pictureBox1
@@ -74,11 +80,68 @@
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
             // 
+            // groupBox1
+            // 
+            groupBox1.Controls.Add(radioButton3);
+            groupBox1.Controls.Add(radioButton2);
+            groupBox1.Controls.Add(radioButton1);
+            groupBox1.Location = new Point(96, 22);
+            groupBox1.Name = "groupBox1";
+            groupBox1.Size = new Size(161, 125);
+            groupBox1.TabIndex = 4;
+            groupBox1.TabStop = false;
+            // 
+            // radioButton1
+            // 
+            radioButton1.AutoSize = true;
+            radioButton1.Location = new Point(16, 26);
+            radioButton1.Name = "radioButton1";
+            radioButton1.Size = new Size(72, 24);
+            radioButton1.TabIndex = 0;
+            radioButton1.TabStop = true;
+            radioButton1.Text = "90deg";
+            radioButton1.UseVisualStyleBackColor = true;
+            radioButton1.CheckedChanged += radioButton1_CheckedChanged;
+            // 
+            // radioButton2
+            // 
+            radioButton2.AutoSize = true;
+            radioButton2.Location = new Point(16, 56);
+            radioButton2.Name = "radioButton2";
+            radioButton2.Size = new Size(80, 24);
+            radioButton2.TabIndex = 1;
+            radioButton2.TabStop = true;
+            radioButton2.Text = "180deg";
+            radioButton2.UseVisualStyleBackColor = true;
+            // 
+            // radioButton3
+            // 
+            radioButton3.AutoSize = true;
+            radioButton3.Location = new Point(16, 86);
+            radioButton3.Name = "radioButton3";
+            radioButton3.Size = new Size(80, 24);
+            radioButton3.TabIndex = 2;
+            radioButton3.TabStop = true;
+            radioButton3.Text = "270deg";
+            radioButton3.UseVisualStyleBackColor = true;
+            // 
+            // button2
+            // 
+            button2.Location = new Point(96, 171);
+            button2.Name = "button2";
+            button2.Size = new Size(133, 47);
+            button2.TabIndex = 5;
+            button2.Text = "Rotate";
+            button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(button2);
+            Controls.Add(groupBox1);
             Controls.Add(button1);
             Controls.Add(buttonOnlyGreen);
             Controls.Add(buttonLoad);
@@ -86,6 +149,8 @@
             Name = "Form1";
             Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
+            groupBox1.ResumeLayout(false);
+            groupBox1.PerformLayout();
             ResumeLayout(false);
         }
 
@@ -95,5 +160,10 @@
         private Button buttonLoad;
         private Button buttonOnlyGreen;
         private Button button1;
+        private GroupBox groupBox1;
+        private RadioButton radioButton3;
+        private RadioButton radioButton2;
+        private RadioButton radioButton1;
+        private Button button2;
     }
 }

@@ -70,5 +70,32 @@ namespace ObrazMod
                 pictureBox1.Image = image;
             }
         }
+
+        private void radioButton1_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            //rotate image by (radiobutton) degrees
+            if (pictureBox1 != null)
+            {
+                Bitmap image = new Bitmap(pictureBox1.Image);
+                if (radioButton1.Checked)
+                {
+                    image.RotateFlip(RotateFlipType.Rotate90FlipNone);
+                }
+                else if (radioButton2.Checked)
+                {
+                    image.RotateFlip(RotateFlipType.Rotate180FlipNone);
+                }
+                else if (radioButton3.Checked)
+                {
+                    image.RotateFlip(RotateFlipType.Rotate270FlipNone);
+                }
+                pictureBox1.Image = image;
+            }
+        }
     }
 }

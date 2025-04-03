@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRekord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Rekord>
+    <id>0</id>
+    <imie>gfd</imie>
+    <nazwisko>gfds</nazwisko>
+    <wiek>55</wiek>
+    <stanowisko>Kierownik</stanowisko>
+  </Rekord>
+  <Rekord>
+    <id>1</id>
+    <imie>jhgfds</imie>
+    <nazwisko>bhgvfvd</nazwisko>
+    <wiek>64</wiek>
+    <stanowisko>Kierownik</stanowisko>
+  </Rekord>
+  <Rekord>
+    <id>2</id>
+    <imie>yutree</imie>
+    <nazwisko>htgrfedw</nazwisko>
+    <wiek>34</wiek>
+    <stanowisko>Stażysta</stanowisko>
+  </Rekord>
+</ArrayOfRekord>

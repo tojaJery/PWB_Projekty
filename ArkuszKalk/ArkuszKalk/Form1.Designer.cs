@@ -38,6 +38,8 @@
             button2 = new Button();
             button3 = new Button();
             button4 = new Button();
+            XMLButton = new Button();
+            DeserializeXML = new Button();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
@@ -127,11 +129,33 @@
             button4.UseVisualStyleBackColor = true;
             button4.Click += button4_Click;
             // 
+            // XMLButton
+            // 
+            XMLButton.Location = new Point(404, 289);
+            XMLButton.Name = "XMLButton";
+            XMLButton.Size = new Size(99, 67);
+            XMLButton.TabIndex = 5;
+            XMLButton.Text = "Serializuj XML";
+            XMLButton.UseVisualStyleBackColor = true;
+            XMLButton.Click += XMLButton_Click;
+            // 
+            // DeserializeXML
+            // 
+            DeserializeXML.Location = new Point(404, 362);
+            DeserializeXML.Name = "DeserializeXML";
+            DeserializeXML.Size = new Size(99, 63);
+            DeserializeXML.TabIndex = 6;
+            DeserializeXML.Text = "Deserializuj XML";
+            DeserializeXML.UseVisualStyleBackColor = true;
+            DeserializeXML.Click += DeserializeXML_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(DeserializeXML);
+            Controls.Add(XMLButton);
             Controls.Add(button4);
             Controls.Add(button3);
             Controls.Add(button2);
@@ -155,5 +179,7 @@
         private DataGridViewTextBoxColumn Nazwisko;
         private DataGridViewTextBoxColumn Wiek;
         private DataGridViewTextBoxColumn Stanowisko;
+        private Button XMLButton;
+        private Button DeserializeXML;
     }
 }

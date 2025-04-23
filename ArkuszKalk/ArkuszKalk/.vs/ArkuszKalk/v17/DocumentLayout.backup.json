@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{6B98EA81-0CFE-454F-8B72-60FB5256550C}|ArkuszKalk.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B98EA81-0CFE-454F-8B72-60FB5256550C}|ArkuszKalk.csproj|C:\\Users\\belez\\source\\repos\\PWB-Projekty\\ArkuszKalk\\ArkuszKalk\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6B98EA81-0CFE-454F-8B72-60FB5256550C}|ArkuszKalk.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6B98EA81-0CFE-454F-8B72-60FB5256550C}|ArkuszKalk.csproj|c:\\users\\belez\\source\\repos\\pwb-projekty\\arkuszkalk\\arkuszkalk\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B98EA81-0CFE-454F-8B72-60FB5256550C}|ArkuszKalk.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6B98EA81-0CFE-454F-8B72-60FB5256550C}|ArkuszKalk.csproj|C:\\Users\\belez\\source\\repos\\PWB-Projekty\\ArkuszKalk\\ArkuszKalk\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6B98EA81-0CFE-454F-8B72-60FB5256550C}|ArkuszKalk.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B98EA81-0CFE-454F-8B72-60FB5256550C}|ArkuszKalk.csproj|C:\\Users\\belez\\source\\repos\\PWB-Projekty\\ArkuszKalk\\ArkuszKalk\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B98EA81-0CFE-454F-8B72-60FB5256550C}|ArkuszKalk.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6B98EA81-0CFE-454F-8B72-60FB5256550C}|ArkuszKalk.csproj|c:\\users\\belez\\source\\repos\\pwb-projekty\\arkuszkalk\\arkuszkalk\\rekord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -40,19 +40,19 @@
               "RelativeDocumentMoniker": "Rekord.cs",
               "ToolTip": "C:\\Users\\belez\\source\\repos\\PWB-Projekty\\ArkuszKalk\\ArkuszKalk\\Rekord.cs",
               "RelativeToolTip": "Rekord.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAgAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T11:02:30.187Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form2.cs",
               "DocumentMoniker": "C:\\Users\\belez\\source\\repos\\PWB-Projekty\\ArkuszKalk\\ArkuszKalk\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
               "ToolTip": "C:\\Users\\belez\\source\\repos\\PWB-Projekty\\ArkuszKalk\\ArkuszKalk\\Form2.cs",
               "RelativeToolTip": "Form2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAlwB8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T11:01:01.11Z",
               "EditorCaption": ""
@@ -65,14 +65,14 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\belez\\source\\repos\\PWB-Projekty\\ArkuszKalk\\ArkuszKalk\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAAAGsAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAlwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T10:59:08.855Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Form2.cs [Design]",
               "DocumentMoniker": "C:\\Users\\belez\\source\\repos\\PWB-Projekty\\ArkuszKalk\\ArkuszKalk\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
@@ -83,15 +83,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\belez\\source\\repos\\PWB-Projekty\\ArkuszKalk\\ArkuszKalk\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\belez\\source\\repos\\PWB-Projekty\\ArkuszKalk\\ArkuszKalk\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T10:50:52.525Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-20T10:50:52.525Z"
             }
           ]
         }

@@ -1,0 +1,18 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Class="AvaloniaLab7.MainWindow"
+        Width="600" Height="450"
+        Title="Analiza DNA">
+
+	<StackPanel Margin="20" Spacing="10">
+		<TextBlock Text="Wprowadź sekwencję DNA:"/>
+		<TextBox Name="DnaInput" AcceptsReturn="True" Height="100"/>
+
+		<Button Content="Zlicz sekwencje" Click="OnAnalyzeClick"/>
+
+		<TextBlock Text="Wyniki:" FontWeight="Bold"/>
+		<ScrollViewer Height="200">
+			<ListBox Name="ResultsBox"/>
+		</ScrollViewer>
+	</StackPanel>
+</Window>

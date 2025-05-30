@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArkuszKalk")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a31f8ef8d1aed9559d1e9c9d6857a2193f48d56d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38b7cea5bf72bf358baf888a2d46e3c78841b430")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArkuszKalk")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArkuszKalk")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

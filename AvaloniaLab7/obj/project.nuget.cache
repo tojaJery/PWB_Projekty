@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JOLbq/AbMgY=",
+  "dgSpecHash": "uuUZS6QgZgg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\belez\\source\\repos\\KartyPWB\\AvaloniaLab7\\AvaloniaLab7.csproj",
+  "projectFilePath": "C:\\Users\\belez\\source\\repos\\PWB-Projekty\\AvaloniaLab7\\AvaloniaLab7.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\belez\\.nuget\\packages\\avalonia\\11.2.1\\avalonia.11.2.1.nupkg.sha512",
     "C:\\Users\\belez\\.nuget\\packages\\avalonia.angle.windows.natives\\2.1.22045.20230930\\avalonia.angle.windows.natives.2.1.22045.20230930.nupkg.sha512",
